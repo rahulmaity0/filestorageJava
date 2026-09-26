@@ -1,5 +1,7 @@
 # File Storage API
 
+[![CI](https://github.com/rahulmaity0/filestorageJava/actions/workflows/ci.yml/badge.svg)](https://github.com/rahulmaity0/filestorageJava/actions/workflows/ci.yml)
+
 A Spring Boot REST API for uploading, listing, downloading and deleting files, with per-user JWT authentication. Image uploads get an automatic thumbnail.
 
 ## Features
